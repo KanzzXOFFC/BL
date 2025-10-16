@@ -11,11 +11,11 @@
         "whatsapp-group",
         "botwa",
         "stvnnvs"
-    ],
-    "homepage": "https://www.npmjs.com/package/@stvnnvs/baileys",
-    "repository": {
-        "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
-    },
+      ],
+  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "repository": {
+    "url": "git@github.com:WhiskeySockets/Baileys.git"
+  },
     "license": "MIT",
     "author": "Adhiraj Singh",
     "main": "lib/index.js",
